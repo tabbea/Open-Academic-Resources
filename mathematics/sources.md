@@ -1,15 +1,15 @@
 # Textbooks
 
-## Lists of Textbooks
+## Textbook/Resource Compilations
 
-- https://textbooks.aimath.org/textbooks/approved-textbooks/
-- https://open.umn.edu/opentextbooks/subjects/mathematics
+- American Institute of Mathematics: https://textbooks.aimath.org/textbooks/approved-textbooks/
+- University of Minnesota: https://open.umn.edu/opentextbooks/subjects/mathematics
     - (General) https://open.umn.edu/opentextbooks/
-- openstax.org/subjects/math
-- https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
-- https://math.ucr.edu/home/baez/books.html
+- Rice University: openstax.org/subjects/math
+- UC Berkeley https://www.ocf.berkeley.edu/~abhishek/chicmath.htm
+- UC Riverside https://math.ucr.edu/home/baez/books.html
 
-## Individual Textbooks
+## Individual Textbooks and Authors
 
 ### Frederic Schuller
 
@@ -31,10 +31,10 @@
 
 # University Curricula
 
-- https://www.maths.cam.ac.uk/undergrad/files/schedules.pdf
-    - PDFs can exist online, e.g., https://www.damtp.cam.ac.uk/user/sjc1/teaching/VandM/notes.pdf
-- https://github.com/ystael/chicago-ug-math-bib?tab=readme-ov-file#other-similar-resources (Includes signposting to other resources)
+- University of Cambridge: https://www.maths.cam.ac.uk/undergrad/files/schedules.pdf
+- University of Chicago: https://github.com/ystael/chicago-ug-math-bib?tab=readme-ov-file#other-similar-resources (Includes signposting to other resources)
 
 # Non-Academic
 
-- https://github.com/ossu/math?tab=readme-ov-file#differential-equations
+- Open Source Society University: https://github.com/ossu/math?tab=readme-ov-file#differential-equations
+    - (Better known for Computer Science): https://github.com/ossu/computer-science
