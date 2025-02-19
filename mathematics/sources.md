@@ -13,7 +13,7 @@
 
 ### Frederic Schuller
 
-- Lectures
+#### Lecture Recordings
   - https://www.youtube.com/channel/UC6SaWe7xeOp31Vo8cQG1oXw/playlists
   - https://www.youtube.com/channel/UCUHKG3S9N_QeIE2jQXd2-VQ/playlists
     
